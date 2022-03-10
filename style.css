@@ -69,7 +69,7 @@ a {
 .hero > .image {
     height: 250px;
     width: 450px;
-    background-color: rgb(129, 130, 138);
+    background-color: rgb(103, 112, 119);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -132,5 +132,6 @@ button {
     justify-content: center;
     text-align: center;
     font-size: 16px;
-    color: rgb(129, 130, 138);
+    color: rgb(103, 112, 119);
 }
+
